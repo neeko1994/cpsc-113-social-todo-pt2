@@ -1,0 +1,6 @@
+[19-Feb-2016 05:47:13 UTC] PHP Fatal error:  Call to undefined function render() in /home/ubuntu/workspace/models/login.php on line 9
+[19-Feb-2016 05:47:13 UTC] PHP Stack trace:
+[19-Feb-2016 05:47:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/models/login.php:0
+[19-Feb-2016 05:50:41 UTC] PHP Fatal error:  Call to undefined function render() in /home/ubuntu/workspace/models/login.php on line 9
+[19-Feb-2016 05:50:41 UTC] PHP Stack trace:
+[19-Feb-2016 05:50:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/models/login.php:0
